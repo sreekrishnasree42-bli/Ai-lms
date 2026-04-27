@@ -1,0 +1,13 @@
+course_id,title,description,category,tags,difficulty,duration_hours,instructor,rating,total_students,language
+C101,MERN Stack Bootcamp,Complete full stack development using MongoDB Express React and Node,Web Development,"mern,react,node,mongodb",intermediate,25,John Mathew,4.5,1200,English
+C102,React Basics,Learn React fundamentals including components hooks and routing,Frontend,"react,javascript,ui",beginner,15,Sarah Joseph,4.3,980,English
+C103,Advanced React Patterns,Master advanced React concepts like context reducers and performance optimization,Frontend,"react,advanced,performance",advanced,20,David Thomas,4.6,750,English
+C104,Node API Development,Build scalable REST APIs using Node.js and Express,Backend,"node,express,api",intermediate,18,Anil Kumar,4.4,890,English
+C105,JavaScript Fundamentals,Core JavaScript concepts including ES6 closures and async programming,Programming,"javascript,basics,es6",beginner,12,Rahul Nair,4.2,1500,English
+C106,Data Structures and Algorithms,Learn DSA for coding interviews with real problems,Computer Science,"dsa,algorithms,interview",intermediate,30,Priya Menon,4.7,2000,English
+C107,Python for Beginners,Introduction to Python programming with hands on exercises,Programming,"python,basics",beginner,14,Meera Pillai,4.3,1100,English
+C108,Machine Learning Basics,Introduction to ML concepts including regression classification and clustering,AI,"ml,ai,python",intermediate,22,Amit Sharma,4.5,800,English
+C109,Deep Learning with TensorFlow,Learn neural networks CNN and deep learning using TensorFlow,AI,"deep learning,tensorflow,ai",advanced,28,Sneha Iyer,4.6,600,English
+C110,UI UX Design Fundamentals,Learn design principles wireframing and prototyping,Design,"ui,ux,design",beginner,10,Neha Reddy,4.1,700,English
+C111,Full Stack Project Development,Build real world projects using MERN stack,Web Development,"mern,projects,fullstack",advanced,35,John Mathew,4.7,500,English
+C112,SQL and Database Design,Learn SQL queries normalization and database design concepts,Database,"sql,database",beginner,16,Arjun Nair,4.3,950,English
